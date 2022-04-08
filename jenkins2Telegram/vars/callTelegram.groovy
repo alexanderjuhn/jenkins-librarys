@@ -1,5 +1,5 @@
 #!/usr/bin/env groovy
 
 def call(){
-    sh "Hello World from Library!"
+    echo "Hello World from Library!"
 }
